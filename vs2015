@@ -1,0 +1,5 @@
+@INPUT 				= 	default
+PROJECT_NAME   		= 	
+PROJECT_NUMBER         = 	
+INPUT                  =   "src\"	
+OUTPUT_DIRECTORY       = 	"doxy\"
